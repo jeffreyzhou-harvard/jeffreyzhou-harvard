@@ -4,6 +4,10 @@
 
 #### I'm studying Computer Science and Math @ Harvard
 
+#### I'm built AI tools for medicine, [policy research](https://hkscarvaogroup.github.io/), and [robotics](https://github.com/mahdi-nass/CS2860-Distributed-SLAM-Project).
+
+#### I'm a Venture Fellow at Link Ventures and OVO Fund.
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 Selected languages, libraries, and tools which I have experience in.
