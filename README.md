@@ -2,7 +2,7 @@
 
 #### I'm based in Cambridge, MA.
 
-#### I'm studying Computer Science and Math @ Harvard
+#### I'm studying Computer Science and Math @ Harvard.
 
 #### I'm built AI tools for medicine, [policy research](https://hkscarvaogroup.github.io/), and [robotics](https://github.com/mahdi-nass/CS2860-Distributed-SLAM-Project).
 
