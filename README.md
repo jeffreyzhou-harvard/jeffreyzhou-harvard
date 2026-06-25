@@ -1,4 +1,4 @@
-# Hey! I'm [Jeffrey]()!
+# Hey! I'm [Jeffrey]()! 👋
 
 #### I'm based in Cambridge, MA.
 
